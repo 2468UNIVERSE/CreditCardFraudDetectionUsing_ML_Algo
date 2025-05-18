@@ -1,3 +1,6 @@
+
+link for the dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 1- Project Objective
 The aim of this project is to build a machine learning model that can effectively detect fraudulent activities in a given dataset. Fraud detection is a critical application of machine learning, especially in sectors like banking, finance, and e-commerce. The model learns from historical data containing both fraudulent and non-fraudulent records and predicts whether a new transaction is likely to be fraudulent.
 
